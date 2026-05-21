@@ -1,1 +1,0 @@
-# Simple_calculator_project
